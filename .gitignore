@@ -1,0 +1,5 @@
+__pycache__/
+env/
+file.json
+test/
+./test_*.py
